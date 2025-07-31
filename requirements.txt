@@ -1,0 +1,7 @@
+# Requirements file for the AI-Powered WPT Efficiency Optimizer
+customtkinter>=5.2.0
+Pillow>=9.0.0
+pandas>=1.5.0
+numpy>=1.21.0
+pyswarm>=0.6
+openpyxl>=3.0.0
